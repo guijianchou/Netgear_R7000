@@ -1,0 +1,4 @@
+# Design for koolproxy rules
+# Rules for private usage and ban data collect
+# __auther__=="guijianchou" in github
+

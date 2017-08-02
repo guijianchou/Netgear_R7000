@@ -2,3 +2,17 @@
 # Rules for private usage and ban data collect
 # __auther__=="guijianchou" in github
 
+51.la
+cnzz.com
+99click
+360.cn
+360.com
+360safe.com
+baidu.com
+baidustatics.com
+qq.com
+163.com
+126.com
+wechat.com
+AdTracking.com
+xiaomi.com

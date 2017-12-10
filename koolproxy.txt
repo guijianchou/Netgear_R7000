@@ -16,3 +16,6 @@ qq.com
 wechat.com
 AdTracking.com
 xiaomi.com
+
+#hangzhou ChinaTelecom 
+218.93.127.37

@@ -1,5 +1,5 @@
 sed -i 's/koolshare.ngrok.wang/ks.ddnsto.com/g' /koolshare/scripts/ks_app_install.sh
 sed -i 's/koolshare.ngrok.wang/ks.ddnsto.com/g' /koolshare/webs/Main_Soft_center.asp
 
-
+#remove ss install restriction
 sed -i 's/\tdetect_package/\t# detect_package/g' /koolshare/scripts/ks_tar_install.sh 

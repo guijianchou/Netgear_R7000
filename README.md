@@ -17,6 +17,6 @@ Merlin koolshare stop update after version 7.9.1. So the project Archived
 
 而此版本下最优的udp加速组合：
 
-1.李家坡或者鹅场的24/1T套餐，然后安装koolgame v2 执行 koolgame/game-server -c config.json -d
+1.李家坡或者鹅场的24/1T套餐，然后安装 [koolgame](https://github.com/guijianchou/koolgame)
 
 2.自己找个中转提供商，最好支持udp加速那种

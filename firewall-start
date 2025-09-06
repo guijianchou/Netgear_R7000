@@ -1,0 +1,5 @@
+#!/bin/sh
+iptables -N SCAN_BLOCK
+iptables -A INPUT -i ppp0 -j SCAN_BLOCK
+iptables -A SCAN_BLOCK -m recent --name portscan --rcheck --seconds 86400 --hitcount 2 -j DROP
+iptables -A SCAN_BLOCK -m recent --name portscan --set -j RETURN
